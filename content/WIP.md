@@ -1,1 +1,1 @@
-Several pages on this site are "work-in-progress" (WIP). If you are unable to find information you expect to see on these pages, please contact Prof. Ian Ludden. 
+Several pages on this site are "works-in-progress" (WIPs). If you are unable to find information you expect to see on these pages, or if you notice any errors (e.g., typos, broken links) please [contact Prof. Ian Ludden](https://ianludden.com/). 
