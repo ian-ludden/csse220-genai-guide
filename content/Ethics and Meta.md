@@ -17,3 +17,4 @@ If you come across resources you think worth adding here, please let me know.
 - [The impact of genAI on socioeconomic inequalities and policy making](https://doi.org/10.1093/pnasnexus/pgae191)
 - [AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://doi.org/10.3390/soc15010006)
 - [MIT coverage of environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117)
+- [AI's Challenging Waters: An article from the Center for Secure Water (C4SW)](https://cee.illinois.edu/news/AIs-Challenging-Waters)
